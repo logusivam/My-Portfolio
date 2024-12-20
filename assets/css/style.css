@@ -14,6 +14,10 @@ footer .text-white
   color: aliceblue;
 }
 
+body
+{
+  overflow-x: hidden;
+}
 
 /*-----------------------------------*\
   #CUSTOM PROPERTY
